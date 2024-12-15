@@ -10,3 +10,6 @@ management:
     web:
       exposure:
         include: "*"
+
+jwt:
+  secret: U3P+xCMTINo83fVjH/NL/QYBuGYWt47CHsskWtAGq5l3VJn60ERERsaziCzziJwLufJ7HUBCpIXI
